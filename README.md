@@ -1,5 +1,7 @@
 #  NHFS-5 Data Analysis: Determinants of Poor Child Health in Indian Districts
-![f](https://github.com/Mehul1729/Analysis_of_NHFS-5_data_for_Child_Health_Factors/blob/20d63397a308d24ee58fd5a295e80d2e0c5a0ee5/Map_Alcohol.png)##  Overview
+![f](https://github.com/Mehul1729/Analysis_of_NHFS-5_data_for_Child_Health_Factors/blob/af4180055d10506cee05271fdc62a64eefec5497/anemia%20mapping.png)
+
+##  Overview
 
 This project explores the determinants of poor health among children (under 5 years) and infants (under 6 months) in Indian districts using the National Family Health Survey (NFHS-5) dataset. The goal is to identify key maternal and environmental factors that influence child malnutrition indicators like underweight, stunted, wasted, and anemia percentages.
 
