@@ -1,4 +1,6 @@
 #  NHFS-5 Data Analysis: Determinants of Poor Child Health in Indian Districts
+
+### Access the brief report summarising the work and results/conclusions : [LINK](https://github.com/Mehul1729/Analysis_of_NHFS-5_data_for_Child_Health_Factors/blob/3894bb0870e711987c4f058a6ed9bf998def40c3/Brief%20Report.pdf)
 ![f](https://github.com/Mehul1729/Analysis_of_NHFS-5_data_for_Child_Health_Factors/blob/af4180055d10506cee05271fdc62a64eefec5497/anemia%20mapping.png)
 
 
